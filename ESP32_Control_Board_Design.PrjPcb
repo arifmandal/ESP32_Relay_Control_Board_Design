@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWEWGTCM
 
+[Parameter1]
+Name=NameProject
+Value=ESP32 Control Board
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
