@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ESP32_Control_Board_Design.PcbDoc   11.10.2024  14:03:01
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ESP32_Control_Board_Design.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      15mil (0.381mm)                                           Round             39        PTH        0.00inch (0.00mm)
+T2      17mil (0.432mm)                                           Round             58        PTH        0.00inch (0.00mm)
+T3      39mil (0.991mm)                                           Round             14        PTH        0.00inch (0.00mm)
+T4      79mil (2.007mm)                                           Round             32        PTH        0.00inch (0.00mm)
+T5      37mil (0.94mm)                                            Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              145
+
+Total Processing Time (hh:mm:ss) : 00:00:00

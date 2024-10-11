@@ -1,0 +1,27 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 14:02:14 On 11.10.2024
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [ESP32_Control_Board_Design.PcbDoc]
+   Generated File[ESP32_Control_Board_Design.GTO]
+   Generated File[ESP32_Control_Board_Design.GTP]
+   Generated File[ESP32_Control_Board_Design.GTS]
+   Generated File[ESP32_Control_Board_Design.GTL]
+   Generated File[ESP32_Control_Board_Design.GBL]
+   Generated File[ESP32_Control_Board_Design.GBS]
+   Generated File[ESP32_Control_Board_Design.GKO]
+   Generated File[ESP32_Control_Board_Design.GPT]
+   Generated File[ESP32_Control_Board_Design.GPB]
+   Generated File[ESP32_Control_Board_Design.GD1]
+   Generated File[ESP32_Control_Board_Design.GG1]
+   Generated File[ESP32_Control_Board_Design.RUL]
+   Generated File[ESP32_Control_Board_Design.EXTREP]
+   Generated File[ESP32_Control_Board_Design.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 14:02:16 On 11.10.2024

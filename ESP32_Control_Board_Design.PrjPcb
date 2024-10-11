@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for ESP32_Control_Board_Design
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -105,8 +105,97 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWEWGTCM
 
+[Document5]
+DocumentPath=ESP32_Control_Board_Design.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ESP32_Control_Board_Design\Design Rule Check - ESP32_Control_Board_Design.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.REP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Production Files\Gerber\ESP32_Control_Board_Design.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Production Files\ESP32_Control_Board_Design.xls
 DItemRevisionGUID=
 
 [Parameter1]
@@ -122,6 +211,9 @@ Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
+
+[Generic_EDE]
+OutputDir=Project Outputs for ESP32_Control_Board_Design
 
 [OutputGroup1]
 Name=Netlist Outputs
