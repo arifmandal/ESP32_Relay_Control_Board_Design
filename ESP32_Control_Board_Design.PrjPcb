@@ -105,6 +105,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWEWGTCM
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ESP32_Control_Board_Design\Design Rule Check - ESP32_Control_Board_Design.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=NameProject
 Value=ESP32 Control Board
